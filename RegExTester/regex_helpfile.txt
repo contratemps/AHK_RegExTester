@@ -5,7 +5,7 @@
   i Case-Insensitive
   s Dot ALL 
   x ignore whitespace
-  A forcse pattern to be anchored
+  A force pattern to be anchored
   D force $ to match end of haystack
   U makes it ungreedy
   
